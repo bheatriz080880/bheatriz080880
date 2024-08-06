@@ -2,7 +2,7 @@
 
 Meu nome é Ana Bheatriz 
 
-- Estou estudando Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Ultilizo esse espaço para minha organização e compartilhamento dos meus projeyos desenvolvidos
 
@@ -10,3 +10,6 @@ Meu nome é Ana Bheatriz
 
   00001121684038sp@al.educacao.sp.gov.br
   
+
+
+https://tenor.com/owtFGOqWar9.gif
